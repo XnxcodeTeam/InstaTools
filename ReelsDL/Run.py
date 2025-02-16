@@ -18,7 +18,7 @@ from rich.tree import Tree as dalan
 from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
 console = Console()
-sys.stdout.write('\x1b]2; InstaLoader | WahyuXD Downloader Reels/Post Instagram \x07')
+sys.stdout.write('\x1b]2; InstaLoader | XNXCode Downloader Reels/Post Instagram \x07')
 
 # <--- Waktu --->
 bulan = {'1':'January','2':'February','3':'March','4':'April','5':'May','6':'June','7':'July','8':'August','9':'September','10': 'October', '11': 'November', '12': 'December'}
